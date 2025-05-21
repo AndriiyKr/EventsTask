@@ -1,0 +1,16 @@
+F:\ЛНУ\Проєкти\Events1\Events1\bin\Debug\net9.0-windows\Events1.exe
+F:\ЛНУ\Проєкти\Events1\Events1\bin\Debug\net9.0-windows\Events1.deps.json
+F:\ЛНУ\Проєкти\Events1\Events1\bin\Debug\net9.0-windows\Events1.runtimeconfig.json
+F:\ЛНУ\Проєкти\Events1\Events1\bin\Debug\net9.0-windows\Events1.dll
+F:\ЛНУ\Проєкти\Events1\Events1\bin\Debug\net9.0-windows\Events1.pdb
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.Form1.resources
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.csproj.GenerateResource.cache
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.AssemblyInfoInputs.cache
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.AssemblyInfo.cs
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.csproj.CoreCompileInputs.cache
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.dll
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\refint\Events1.dll
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.pdb
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\Events1.genruntimeconfig.cache
+F:\ЛНУ\Проєкти\Events1\Events1\obj\Debug\net9.0-windows\ref\Events1.dll
